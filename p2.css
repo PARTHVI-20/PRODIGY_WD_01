@@ -66,9 +66,6 @@ section{
 .btn:hover{
     background: var(--orange);
 }
-
-/* header */
-
 .header{
     position: fixed;
     top: 0; left: 0; right: 0;
@@ -134,11 +131,6 @@ header.scrolled {
 #menu-btn:hover{
     color: var(--primary);
 }
-
-/* end */
-
-/* home */
-
 .home{
     padding: 0;
 }
@@ -194,10 +186,6 @@ header.scrolled {
 .swiper-button-prev::after{
     font-size: 2rem;
 }
-
-/* end */
-
-
 .main{
     background: #333;
     
@@ -234,7 +222,6 @@ header.scrolled {
     color: whitesmoke;
 }
 
-/* services */
 
 .services .box-container{
     display: grid;
@@ -340,8 +327,6 @@ header.scrolled {
     font-size:2rem;
     color: whitesmoke;
 }
-
-/* reservation */
 
 .reservation .heading{
     font-size: 3.5rem;
